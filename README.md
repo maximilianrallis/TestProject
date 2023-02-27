@@ -1,4 +1,1 @@
-Wir arbeiten an einem Main- Branch zusammen und brauchen daher keine Pull requests
-
-Ist es aber nicht sinnvoller mit Pull requests zu arbeiten? Oder nicht?
-So weiss der andere was veränder wurde
+So langsam steigt das Verständnis! Das ist nur ein weiterer Test um 20:33 Uhr Leipziger Zeit . Ahoi Matrosen wir segeln in die richtige Richtung 
